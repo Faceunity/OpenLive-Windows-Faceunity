@@ -1,0 +1,11 @@
+/OpenLive/Debug/Language/*.exp
+/OpenLive/Debug/Language/*.ilk
+/OpenLive/Debug/Language/*.pdb
+*.pdb
+*.suo
+*.ilk
+*.tlog
+*.log
+*.idb
+*.pch
+*.obj
