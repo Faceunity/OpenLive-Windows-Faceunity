@@ -2,6 +2,7 @@
 /OpenLive/Debug/Language/*.ilk
 /OpenLive/Debug/Language/*.pdb
 *.pdb
+*.db
 *.suo
 *.ilk
 *.tlog
@@ -9,3 +10,4 @@
 *.idb
 *.pch
 *.obj
+*.exp
